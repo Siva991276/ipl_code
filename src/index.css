@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.logoipl{
+  width: 100px;
+  
+}
+.teamimages{
+  width: 70px;
+}
+.container1{
+  display: grid;
+  grid-template-columns: auto auto;
+  width: 65%;
+  margin-left: 250px;
+  /* flex:wrap; */
+  /* justify-content: center; */
+  height: 400px;
+  /* align-items: center; */
+  /* overflow: auto; */
+  /* scroll-behavior: smooth; */
+  border-radius: 20px;
+  gap:20px;
+  margin-top: 50px;
+
+}
+.main_container{
+  background-image: url("https://i.pinimg.com/originals/e4/a6/be/e4a6beadfa1f34cab00bc0638e0b75e3.jpg");
+   
+  background-size: cover;
+  height: 100vh;
+}
+.heading1{
+  background: none;
+}
+.sections_card{
+  background: none;
+  color: rgb(250, 248, 248);
+  border: 2px solid rgb(48, 42, 42);
+  border-radius: 10px;
+   box-shadow: 1px 1px 1PX 2PX;
+   padding: 10px;
+}
+.heading23{
+  font-size: 25px;
+}
